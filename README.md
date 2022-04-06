@@ -2,7 +2,7 @@
 Servlet과 CRUD학습을 위해 제작하였습니다.
 
 ## 사용언어
-- JAVA
+- JAVA 11
 - JSP
 - Servlet
 - MYSQL 5.7 
