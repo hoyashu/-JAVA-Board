@@ -1,2 +1,14 @@
-# -JAVA-Board
-JAVA/Servlet/MYSQL을 이용하여 게시판 구현
+# 기본 게시판 서비스
+Servlet과 CRUD학습을 위해 제작한 기본적인 게시판
+
+## 사용언어
+- JAVA
+- JSP
+- Servlet
+- MYSQL 5.7 
+
+## 주요기능
+- 게시글 작성
+- 게시글 목록 조회
+- 게시글 수정
+- 게시글 삭제
